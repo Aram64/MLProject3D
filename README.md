@@ -5,5 +5,5 @@ The main goal of our research was to utilize Machine Learning to process the pos
 and to then replicate onto a 3D model utilizing Blender and Python. 
 Read Proposal.docx for further detail of the objective and method.
 
-This project is unachievable with haar cascade, due to the level complexity
-This method could be proved upon by using Convolution Neural Networks
+This project is unachievable due to the limitations of Haar Cascades.
+This method could be improved upon using Convolution Neural Networks.
